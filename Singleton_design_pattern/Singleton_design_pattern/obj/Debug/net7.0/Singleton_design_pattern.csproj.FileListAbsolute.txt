@@ -1,0 +1,15 @@
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/bin/Debug/net7.0/Singleton_design_pattern
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/bin/Debug/net7.0/Singleton_design_pattern.deps.json
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/bin/Debug/net7.0/Singleton_design_pattern.runtimeconfig.json
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/bin/Debug/net7.0/Singleton_design_pattern.dll
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/bin/Debug/net7.0/Singleton_design_pattern.pdb
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.csproj.AssemblyReference.cache
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.AssemblyInfoInputs.cache
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.AssemblyInfo.cs
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.dll
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/refint/Singleton_design_pattern.dll
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.pdb
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/Singleton_design_pattern.genruntimeconfig.cache
+/Users/user/Desktop/Wzorce projektowe C#/Singleton_design_pattern/Singleton_design_pattern/obj/Debug/net7.0/ref/Singleton_design_pattern.dll
